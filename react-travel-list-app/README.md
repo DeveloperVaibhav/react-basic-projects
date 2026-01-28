@@ -22,9 +22,12 @@
 <br>
 
 <img width="1432" height="705" alt="Screenshot 2026-01-28 at 4 32 30 PM" src="https://github.com/user-attachments/assets/9ad01de8-41c9-42f7-b3fa-165deb1171be" />
+
 <br>
+
 <img width="1443" height="696" alt="Screenshot 2026-01-28 at 4 35 41 PM" src="https://github.com/user-attachments/assets/554a2d5f-44c1-4489-a59f-6baad874282c" />
 
+<br>
 <br>
 
 **⚛️ React Concepts Used**
@@ -62,3 +65,4 @@
 ▸ Display real-time packing statistics.
 
 ▸ Simple and responsive user interface.
+
